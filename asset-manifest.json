@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-search-bar-component/static/css/main.3b56a472.css",
+    "main.js": "/basic-search-bar-component/static/js/main.52dea6fd.js",
+    "static/js/787.1c95c8c9.chunk.js": "/basic-search-bar-component/static/js/787.1c95c8c9.chunk.js",
+    "index.html": "/basic-search-bar-component/index.html",
+    "main.3b56a472.css.map": "/basic-search-bar-component/static/css/main.3b56a472.css.map",
+    "main.52dea6fd.js.map": "/basic-search-bar-component/static/js/main.52dea6fd.js.map",
+    "787.1c95c8c9.chunk.js.map": "/basic-search-bar-component/static/js/787.1c95c8c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b56a472.css",
+    "static/js/main.52dea6fd.js"
+  ]
+}
